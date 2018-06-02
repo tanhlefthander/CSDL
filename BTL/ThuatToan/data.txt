@@ -1,0 +1,11 @@
+5
+C T
+HR C
+HT R
+CS G
+HS R
+4
+AB C
+A D
+BD C
+B D
